@@ -7,5 +7,10 @@ TamilSpell is a comprehensive four-column corpus that includes the sentence or w
 
 
 These data are made available under a creative commons attribution non commercial 4.0 International licence. https://www.creativecommons.org/licenses/by-nc/4.0/deed.en
-Date made available30 Aug 2024
-PublisherUniversity of Dundee
+
+## Date made available 30 Aug 2024
+## Publisher University of Dundee
+## DOI 10.15132/10000260
+## Access the corpus 
+
+https://discovery.dundee.ac.uk/en/datasets/tamilspell-a-tamil-spelling-error-corpus
